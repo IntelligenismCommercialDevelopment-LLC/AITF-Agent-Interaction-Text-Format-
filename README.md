@@ -227,9 +227,11 @@ The core insight that a protocol should define *how to express*, not *what to do
 
 ## License
 
-Copyright © 2026 Minghai Zhuo. All rights reserved.
+Copyright © 2026 Intelligenism Commercial Development LLC.
 
-License terms to be determined. See this repository's commit history for provenance timestamps.
+Licensed under the Apache License, Version 2.0. You may use, modify, and distribute this work for any purpose, including commercial use, provided you retain the original copyright notice and attribution.
+
+See [LICENSE](LICENSE) for full terms.
 
 ---
 
